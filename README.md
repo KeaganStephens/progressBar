@@ -9,6 +9,7 @@ color of the div's that were created using *ngFor. *ngIf is used to check if a c
 the value of the current array(value) index. The index boolean is changed using the setInrerval function and just having a 
 pointer keep track of the current idex.
 
+![img1](https://github.com/KeaganStephens/progressBar/blob/main/img/img/recording.mov?raw=true)
 After a few seconds.
 ![img1](https://github.com/KeaganStephens/progressBar/blob/main/img/img/Screenshot(1)09.25.39.png?raw=true)
 a few more seconds.
