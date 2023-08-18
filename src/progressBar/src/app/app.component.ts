@@ -9,7 +9,7 @@ export class AppComponent {
   title = 'progressTracker';
   columnTemplate!: string;
 
-  value = [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+  value = [false,false,false,false,false,false,false,false,false]
   current = 0
 
   ngOnInit() {
